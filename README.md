@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="/heart.gif">
+  <img src="https://raw.githubusercontent.com/resloved/resloved/master/heart.gif">
 </p>
